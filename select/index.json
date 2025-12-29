@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "誰も見てない夢を見ろ / 天音かなた(official)",
+  "base_artist": "天音かなた",
+  "createdAt": "2025-12-29T03:59:21.220139Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誰も見てない夢を見ろ",
+      "artist": "天音かなた",
+      "has_synced": false,
+      "path": "select/pl_01_誰も見てない夢を見ろ_天音かなた.txt"
+    }
+  ]
+}
